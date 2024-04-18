@@ -7,7 +7,7 @@ programming language:
 Development environment:
   -Intelligent
 
-<img sec="https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/0ed0c7e1-fd48-4f4d-9ee4-f94e63a97c48" alt="" width=800 >
+<img sec="https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044" alt="" width=800 >
 <img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=300 > 
 
 ![Screenshot 2024-04-18 142145](https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044)
