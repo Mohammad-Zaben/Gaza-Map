@@ -8,7 +8,7 @@ Development environment:
   -Intelligent
 
 <img sec="https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044" alt="" width=800 >
-<img src="https://github.com/Mohammad-Zaben/BZU-Notification/assets/141401082/35f47c1d-da87-4ea9-83df-deff04caf503" alt="" width=300 > 
+<img src="https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044" alt="" width=600 > 
 
 ![Screenshot 2024-04-18 142145](https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/03dc5b30-4269-4a23-b006-5e584a229044)
 ![Screenshot 2024-04-18 142347](https://github.com/Mohammad-Zaben/Gaza-Map/assets/141401082/c03e842e-1a07-4ddd-bb43-0a4cd6ac2641)
