@@ -1,0 +1,2 @@
+# Overview
+The project is a Java application that uses Dijkstra's algorithm to find the shortest path between two cities on a map. It includes features such as a user interface for entering cities, visualizing the shortest path on a map, and error handling for invalid inputs. The project also includes implementing a data structure to represent the map, storing the map data, and writing unit tests to ensure correctness.
