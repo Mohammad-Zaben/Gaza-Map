@@ -3,6 +3,7 @@ The project is a Java application that uses Dijkstra's algorithm to find the sho
  #Tech stack
 programming language:
 - Java
+- Java-FX
 
 Development environment:
   -Intelligent
